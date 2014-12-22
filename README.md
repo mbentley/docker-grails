@@ -1,7 +1,7 @@
 mbentley/grails:latest
 ===========================
 
-docker image for grails 2.4.4 (with Oracle JDK)
+docker image for grails (with Oracle JDK)
 based off of stackbrew/debian:jessie
 
 *Note*:  See the tags for different Docker tags build for different version of Grails
