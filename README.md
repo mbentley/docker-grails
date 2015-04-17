@@ -1,10 +1,10 @@
-mbentley/grails:latest
+mbentley/grails
 ===========================
 
 docker image for grails (with Oracle JDK)
 based off of stackbrew/debian:jessie
 
-*Note*:  See the tags for different Docker tags build for different version of Grails
+*Note*:  See the subdirectories for different Docker tags for specific versions of Grails
 
 To pull this image:
 `docker pull mbentley/grails:latest`
